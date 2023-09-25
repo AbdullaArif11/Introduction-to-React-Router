@@ -1,0 +1,9 @@
+nav a{
+  margin-right: 10px;
+}
+
+nav a.active{
+  text-decoration: underline;
+  color: rgb(57, 56, 56);
+  background-color: azure;
+}
